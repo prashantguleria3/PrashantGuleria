@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Prashant Guleria
 
-📞 +91-7018063540 | 📧 dataneverlie3@gmail.com
+ 📧 dataneverlie3@gmail.com
 
 👨‍💻 Cybersecurity Professional Transitioning to Data Science | Python Developer | IT Support Specialist
 
